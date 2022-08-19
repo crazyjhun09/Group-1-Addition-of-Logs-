@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1614396253 source:d:\programming\junjun\test312\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<ctime>
+	<windows.h>
+	<sstream>
+
+1560752894 d:\libraries\timercpp-master\timercpp.h
+	<iostream>
+	<thread>
+	<chrono>
+
